@@ -1,0 +1,9 @@
+/* Exemplo de como definir um id="" */
+#textoPrincipal {
+    font-size: 40px; /* Tamanho da fonte */
+    font-weight: bold; /* Estilo da fonte */
+    color: #fff; /* Cor de fundo do texto */
+    padding: 10px;
+    background-color: #444; /* Cor do fundo */
+    margin-bottom: 50px; /* Espaçamento em baixo */
+}
